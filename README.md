@@ -36,4 +36,4 @@ Software Engineering Dominates: Software Engineering accounts for 53.7% of all p
 
 AI in Customer Success: Even within Customer Success / Support roles, AI is the top skill mentioned (22 posts), reflecting growing demand for AI-literate CX teams.
 
-See insights.md for the full breakdown.
+See insights.md for the full breakdown."# hn-hiring-analysis" 
