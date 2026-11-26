@@ -1,0 +1,10 @@
+# Ignore raw data (contains full post text and author usernames)
+data/raw/
+
+# Ignore environment variables and local secrets
+.env
+notebooks/load_to_mysql.py
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
